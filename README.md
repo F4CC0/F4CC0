@@ -1,5 +1,4 @@
-Eai, meu nome é Guilherme Facco Silva, sou acadêmico de Engenharia de Software na Universidade Federal de Mato Grosso do Sul. Aqui você vai encontrar alguns exercícios da faculdade e algumas outras coisas que fico inventando. 
-
-Lembre-se, quando se sentir desmotivado achando que não é bom o bastante, incendeie seu coração!
-
-Você consegue!
+Hi! My name is Guilherme Facco Silva. I am a Software Engineering undergraduate at the Federal University of Mato Grosso do Sul (UFMS).
+I have a solid foundation in Python, C, C++, and Java, with hands-on experience in both academic and personal projects.
+I possess strong problem-solving skills, a solid understanding of software development principles, and a consistent focus on writing clean, maintainable code.
+I'm an effective team collaborator with a results-driven mindset, always aiming to deliver high-quality solutions while continuously improving my technical and interpersonal skills.
