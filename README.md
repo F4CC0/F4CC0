@@ -40,11 +40,11 @@ Portfolio website project that represents my work, interests, and technical grow
 
 - Repository: [F4CC0/portfolio-project](https://github.com/F4CC0/portfolio-project)
 
-### NES Productivity Dashboard
+### Current Project: Agenda Flow
 
-Academic data analysis project focused on building interactive productivity dashboards and turning data into clearer decisions.
+A scheduling and reminder application in active development, focused on event organization, notification flows, automation, and a cleaner user experience.
 
-- Repository: [F4CC0/prose-analise-dados-t6](https://github.com/F4CC0/prose-analise-dados-t6)
+- Current work: planning, frontend iteration, and backend alert integration
 
 ### Current direction
 
