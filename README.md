@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0b1020,50:111827,100:a855f7&section=header&text=Guilherme%20Facco%20Silva&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1020,50:111827,100:22d3ee&section=header"/>
+
+# Hi, I'm Guilherme Facco Silva 👋
 
 ### `Software Engineering @ UFMS` • `Full-Stack Developer` • `Researcher`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+software+with+clean+architecture+and+real-world+impact;Full-stack+developer+with+strong+backend+focus;Software+Engineering+student+and+researcher+at+UFMS;Turning+theory+into+practical+and+polished+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+software+with+clean+architecture+and+real-world+impact;Full-stack+developer+with+strong+backend+focus;Software+Engineering+student+and+researcher+at+UFMS;Turning+theory+into+practical+and+polished+products" alt="Typing SVG" />
 
 <br><br>
 
@@ -34,7 +36,7 @@ I enjoy turning ideas into practical products, whether through personal projects
 - Research experience in **Software Engineering** and **productivity**
 - **Co-author of an accepted paper at ICSE 2026**
 - Experience with **Git**, **GitHub**, **Linux**, and **Windows**
-- Full-stack profile with solid interest in **backend systems**, **architecture**, and **practical problem-solving**
+- Full-stack profile with strong interest in **backend systems**, **architecture**, and **practical problem-solving**
 - Strong connection between **theoretical foundations** and **hands-on implementation**
 
 ---
@@ -77,10 +79,6 @@ I enjoy turning ideas into practical products, whether through personal projects
 | **RAG Chat / Portfolio Integration** | Full-stack project connecting a portfolio frontend to a backend API with document-based chat, focused on usability, architecture, and practical AI integration. | `Active` |
 | **Agenda Flow** | Scheduling and reminder application with event organization, notification flows, and automation-oriented features. | `WIP` |
 
-### Repository Spotlight
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=F4CC0&repo=portfolio-project&theme=tokyonight&hide_border=true)](https://github.com/F4CC0/portfolio-project)
-
 ---
 
 ## Research & Academic Focus
@@ -93,12 +91,15 @@ I enjoy turning ideas into practical products, whether through personal projects
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=F4CC0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4CC0&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=F4CC0&theme=tokyonight&hide_border=true&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F4CC0&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
@@ -125,5 +126,5 @@ I enjoy turning ideas into practical products, whether through personal projects
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:a855f7,50:111827,100:0b1020&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22d3ee,50:111827,100:a855f7&section=footer"/>
 </div>
