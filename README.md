@@ -1,4 +1,9 @@
 <h1 align="center">Hi, I'm Guilherme Facco Silva</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+%40+UFMS;Backend+%26+Full-Stack+Developer;Always+building+something+new&font=Fira+Code&center=true&width=440&height=45&color=0f766e&vCenter=true&pause=1000" alt="Typing SVG" />
+</p>
+
 <p align="center">
   Software Engineering undergraduate at UFMS — building practical software with a focus on clean code, collaboration, and real-world impact.
 </p>
@@ -61,8 +66,9 @@ Personal website showcasing my work, interests, and technical growth as a develo
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=F4CC0&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4CC0&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4CC0&theme=github-compact&hide_border=true" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=F4CC0&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en" alt="GitHub streak stats" />
 </p>
 
 ---
