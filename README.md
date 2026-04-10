@@ -63,8 +63,12 @@ Personal website showcasing my work, interests, and technical growth as a develo
 ## GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=F4CC0&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4CC0&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F4CC0&theme=transparent" alt="Profile summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F4CC0&theme=transparent" alt="Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F4CC0&theme=transparent" alt="Top languages" height="150" />
 </p>
 
 <p align="center">
