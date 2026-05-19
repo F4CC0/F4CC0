@@ -95,16 +95,6 @@ I enjoy turning ideas into practical products, whether through personal projects
 
 ---
 
-## Current Focus
-
-- Building practical software with real-world value
-- Strengthening backend, architecture, and full-stack skills
-- Improving maintainability, integrations, and development workflows
-- Growing through research, collaboration, and technical challenges
-- Open to internships and collaboration opportunities
-
----
-
 ## Connect
 
 <div align="center">
