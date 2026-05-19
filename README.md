@@ -71,16 +71,6 @@ I enjoy turning ideas into practical products, whether through personal projects
 
 ---
 
-## Featured Projects
-
-| Project | Description | Status |
-|--------|-------------|--------|
-| **Portfolio Project** | Personal website created to present my projects, technical growth, and profile in a polished and interactive way. | `Published` |
-| **RAG Chat / Portfolio Integration** | Full-stack project connecting a portfolio frontend to a backend API with document-based chat, focused on usability, architecture, and practical AI integration. | `Active` |
-| **Agenda Flow** | Scheduling and reminder application with event organization, notification flows, and automation-oriented features. | `WIP` |
-
----
-
 ## Research & Academic Focus
 
 - Software Engineering productivity
