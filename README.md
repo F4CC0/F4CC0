@@ -6,7 +6,7 @@
 
 ### `Software Engineering @ UFMS` • `Full-Stack Developer` • `Researcher`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+software+with+clean+architecture+and+real-world+impact;Full-stack+developer+with+strong+backend+focus;Software+Engineering+student+and+researcher+at+UFMS;Turning+theory+into+practical+and+polished+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+software+with+clean+architecture+and+real-world+impact;Full-stack+developer+with+strong+backend+focus;Software+Engineering+student+and+researcher+at+UFMS" alt="Typing SVG" />
 
 <br><br>
 
