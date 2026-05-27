@@ -1,110 +1,48 @@
-<div align="center">
+<h1 align="center">Hi, I'm Guilherme Facco Silva</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0b1020,50:111827,100:22d3ee&section=header"/>
-
-# Hi, I'm Guilherme Facco Silva 👋
-
-### `Software Engineering @ UFMS` • `Full-Stack Developer` • `Researcher`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Building+software+with+clean+architecture+and+real-world+impact;Full-stack+developer+with+strong+backend+focus;Software+Engineering+student+and+researcher+at+UFMS" alt="Typing SVG" />
-
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-facco-silva-a238242b0/)
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F4CC0)
-![Profile Views](https://komarev.com/ghpvc/?username=F4CC0&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## About Me
-
-Software Engineering undergraduate at **UFMS**, with a strong interest in building software that is clean, useful, and grounded in real problems.
-
-My work is centered on **full-stack development**, especially with a strong **backend-oriented mindset**, combining software architecture, APIs, integrations, automation, and maintainable code.
-
-I also participate in academic and research environments related to **Software Engineering** and **productivity**, connecting theory and practice through technical projects, applied development, and collaborative work.
-
-I enjoy turning ideas into practical products, whether through personal projects, research initiatives, or software solutions designed to improve real workflows.
-
----
-
-## Highlights
-
-- Software Engineering student at **UFMS**
-- Research experience in **Software Engineering** and **productivity**
-- **Co-author of an accepted paper at ICSE 2026**
-- Experience with **Git**, **GitHub**, **Linux**, and **Windows**
-- Full-stack profile with strong interest in **backend systems**, **architecture**, and **practical problem-solving**
-- Strong connection between **theoretical foundations** and **hands-on implementation**
-
----
-
-## Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
+<p align="center">
+  Software Engineering student at <strong>UFMS</strong>, focused on backend development,
+  full-stack applications, and productivity in software engineering.
 </p>
 
-### Tools & Ecosystem
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-facco-silva-a238242b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/F4CC0?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+  </a>
 </p>
 
----
+## About
 
-## Research & Academic Focus
+- Building practical software with clean structure and real-world usefulness
+- Interested in APIs, automation, workflow tooling, and maintainable systems
+- Combining academic research with hands-on engineering projects
 
-- Software Engineering productivity
-- Applied development and technical experimentation
-- Practical systems that connect research and implementation
-- Interest in architecture, maintainability, and engineering quality
-- Academic growth through projects, collaboration, and publication
+## GitHub Stats
 
----
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F4CC0&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F4CC0&theme=github_dark" alt="Most committed language" />
+</p>
 
-## GitHub Activity
+## Current Work
 
-<div align="center">
+- [Agenda Flow](https://github.com/F4CC0/planilha-app): a scheduling and reminder web app with alert-oriented workflows
+- [Portfolio Project](https://github.com/F4CC0/portfolio-project): personal portfolio experiments with LLM integration
+- Research and technical work connected to software engineering productivity
 
-<img src="https://streak-stats.demolab.com?user=F4CC0&theme=tokyonight&hide_border=true&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee" alt="GitHub Streak" />
+## Stack
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,git,github,linux,vscode" alt="Tech stack icons" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F4CC0&theme=tokyonight" alt="Profile Details" />
+## Contact
 
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-facco-silva-a238242b0/)
-
-**Campo Grande, Brazil**
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22d3ee,50:111827,100:a855f7&section=footer"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-facco-silva-a238242b0/">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn contact" />
+  </a>
+</p>
