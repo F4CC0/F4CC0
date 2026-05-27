@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/F4CC0/F4CC0/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://github.com/F4CC0/F4CC0/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution snake" />
 </p>
 
 ## 🤝 Contact
