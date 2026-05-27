@@ -15,14 +15,20 @@
 
 ## 🙋 About Me
 
-- Software Engineering student at UFMS
-- Focused on backend systems, APIs, automation, and maintainable software
-- Interested in productivity in software engineering and practical full-stack projects
+- 🎓 Software Engineering student at UFMS
+- 🧠 Focused on backend systems, APIs, automation, and maintainable software
+- 🚀 Interested in practical full-stack projects that improve real workflows
+- 🔍 Research-driven mindset with interest in productivity in software engineering
 
 ## 💼 Current Work
 
-- [Portfolio Project](https://github.com/F4CC0/portfolio-project): personal portfolio experiments with LLM integration
-- `FluxoCerto` (private): project currently in active development
+### 🌐 Portfolio Project
+
+Personal portfolio experiments with LLM integration, interface exploration, and a stronger presentation of my work as a developer.
+
+### ⚙️ FluxoCerto
+
+Private project currently in active development, focused on building a more polished and useful product around real workflow needs.
 
 ## 🛠 Skills/Tools
 
@@ -32,6 +38,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/APIs-1F6FEB?style=for-the-badge" alt="APIs" />
 </p>
 
 ### 🌐 Frontend Development
@@ -40,6 +47,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=for-the-badge" alt="UI UX" />
 </p>
 
 ### 🔧 Tools & Workflow
@@ -49,6 +57,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Automation-0E7490?style=for-the-badge" alt="Automation" />
 </p>
 
 ## 📈 GitHub Activity
